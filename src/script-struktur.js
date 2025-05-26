@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const imageFolder = 'images/';
+    const imageFolder = 'src/images/';
     const imageNames = [
       'images1.jpg',
       'images2.jpg',
@@ -18,7 +18,7 @@ $(document).ready(function() {
       'images15.jpg',
       'images16.jpg',
       'images17.jpg',
-      'images18.jpg'
+      'images18.jpg',
     ];
   
     const imageGallery = $('#image-gallery');
